@@ -1,0 +1,100 @@
+solid desk_organizer
+  facet normal 0.000000 0.000000 1.000000
+    outer loop
+      vertex 0.000000 0.000000 0.000000
+      vertex 60.000000 0.000000 0.000000
+      vertex 60.000000 40.000000 0.000000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 1.000000
+    outer loop
+      vertex 0.000000 0.000000 0.000000
+      vertex 60.000000 40.000000 0.000000
+      vertex 0.000000 40.000000 0.000000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 -1.000000
+    outer loop
+      vertex 0.000000 0.000000 25.000000
+      vertex 0.000000 40.000000 25.000000
+      vertex 60.000000 40.000000 25.000000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 -1.000000
+    outer loop
+      vertex 0.000000 0.000000 25.000000
+      vertex 60.000000 40.000000 25.000000
+      vertex 60.000000 0.000000 25.000000
+    endloop
+  endfacet
+  facet normal 0.000000 1.000000 0.000000
+    outer loop
+      vertex 0.000000 0.000000 0.000000
+      vertex 0.000000 0.000000 25.000000
+      vertex 60.000000 0.000000 25.000000
+    endloop
+  endfacet
+  facet normal 0.000000 1.000000 0.000000
+    outer loop
+      vertex 0.000000 0.000000 0.000000
+      vertex 60.000000 0.000000 25.000000
+      vertex 60.000000 0.000000 0.000000
+    endloop
+  endfacet
+  facet normal 0.000000 -1.000000 0.000000
+    outer loop
+      vertex 60.000000 40.000000 0.000000
+      vertex 60.000000 40.000000 25.000000
+      vertex 0.000000 40.000000 25.000000
+    endloop
+  endfacet
+  facet normal 0.000000 -1.000000 0.000000
+    outer loop
+      vertex 60.000000 40.000000 0.000000
+      vertex 0.000000 40.000000 25.000000
+      vertex 0.000000 40.000000 0.000000
+    endloop
+  endfacet
+  facet normal 1.000000 0.000000 0.000000
+    outer loop
+      vertex 0.000000 0.000000 0.000000
+      vertex 0.000000 40.000000 0.000000
+      vertex 0.000000 40.000000 25.000000
+    endloop
+  endfacet
+  facet normal 1.000000 0.000000 0.000000
+    outer loop
+      vertex 0.000000 0.000000 0.000000
+      vertex 0.000000 40.000000 25.000000
+      vertex 0.000000 0.000000 25.000000
+    endloop
+  endfacet
+  facet normal -1.000000 0.000000 0.000000
+    outer loop
+      vertex 60.000000 0.000000 0.000000
+      vertex 60.000000 0.000000 25.000000
+      vertex 60.000000 40.000000 25.000000
+    endloop
+  endfacet
+  facet normal -1.000000 0.000000 0.000000
+    outer loop
+      vertex 60.000000 0.000000 0.000000
+      vertex 60.000000 40.000000 25.000000
+      vertex 60.000000 40.000000 0.000000
+    endloop
+  endfacet
+  facet normal 0.000000 0.242536 0.970143
+    outer loop
+      vertex 22.500000 5.000000 25.000000
+      vertex 37.500000 5.000000 25.000000
+      vertex 37.500000 17.000000 22.000000
+    endloop
+  endfacet
+  facet normal 0.000000 0.242536 0.970143
+    outer loop
+      vertex 22.500000 5.000000 25.000000
+      vertex 37.500000 17.000000 22.000000
+      vertex 22.500000 17.000000 22.000000
+    endloop
+  endfacet
+endsolid desk_organizer
